@@ -6,13 +6,15 @@ I’m Vighnesh Prabhu, a Data Science and Analytics enthusiast with a Bachelor o
 
 ---
 
-## 🔗 *Connect with Me:*
+## 🔗 Connect with Me:
 - GitHub: vighneshprabhu472
 - Email: vighneshprabhu554@gmail.com
 
 ---
+## 📚 About Me
+---
 
-## 🛠 *Skills:*
+### 🛠 Skills:
 - *Programming Languages:* HTML, CSS, JavaScript, Python, SQL
 - *Data Analysis & Visualization:* Pandas, NumPy, Matplotlib, Seaborn
 - *Databases:* MySQL
@@ -20,7 +22,7 @@ I’m Vighnesh Prabhu, a Data Science and Analytics enthusiast with a Bachelor o
 
 ---
 
-## 📚 *Education:*
+### 📚 Education:
 - *Bachelor of Computer Applications (BCA)*  
   Shivaji University, Kolhapur
 
