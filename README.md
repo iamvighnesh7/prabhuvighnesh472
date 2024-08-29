@@ -1,5 +1,5 @@
 
-### Hi there, I'm Vighnesh Prabhu 👋
+# **Hi there, I'm Vighnesh Prabhu 👋**
 ---
 
 I’m Vighnesh Prabhu, a Data Science and Analytics enthusiast with a Bachelor of Computer Applications (BCA). My background in computer applications has equipped me with a solid foundation in programming, databases, and software development, which I now apply to the field of data science and analytics.
