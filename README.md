@@ -6,10 +6,6 @@ I’m Vighnesh Prabhu, a Data Science and Analytics enthusiast with a Bachelor o
 
 ---
 
-*Aspiring Data Scientist | BCA Graduate |*
-
----
-
 ## 🔗 *Connect with Me:*
 - GitHub: vighneshprabhu472
 - Email: vighneshprabhu554@gmail.com
